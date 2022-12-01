@@ -28,6 +28,13 @@
 ## Nos movemos a la rama main
 ### con el mismo comando de antes pero sustituyendo en hash por la palabra main podemos vovler al ultimo commit (es decir al acutal)
 ![part2_movernosmain](https://github.com/Ramago1715/Examen_git/blob/main/Part2_moversemain.png)
+# TERCERA PARTE
+## 1.Directorio de trabajo
+### Es la copia de una version  del proyecto en local para poder editarlo o usarlo
+## 2.Área de preparación
+### Es la zona a la que lo subes para alamcenar archvios antes de hacer el siguiente paso es decir, es la zona donde por ejemplo añades imagenes y archivos y despues haces el commit y push de todo, se sube algo a esta zona con el comando git add
+## 3. Repositorio local
+### El repositorio local es la copia exacta del proyecto que esta subido a git pero en local 
 
 
 
