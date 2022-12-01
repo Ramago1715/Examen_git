@@ -6,19 +6,19 @@
 ![1.2](https://github.com/Ramago1715/Examen_git/blob/main/Cap_Examen2.png)
 ### Usamos ahora el git branch -M main y el git remote add origin y la url del repositorio de github y por ultimo git push -u origin main para finalmente subirlo del todo, y ya estaria creado
 ![2](https://github.com/Ramago1715/Examen_git/blob/main/Cap_Examen3.png)
-# Clonacion
+## Clonacion
 ### Ahora clonaremos el repositorio para tenerlo en local con el comando git clone y la url del repositorio a clonar
 ![3](https://github.com/Ramago1715/Examen_git/blob/main/Cap_Examen4.png)
 # SEGUNDA PARTE
 ## Revisamos cuantos commits tenemos hechos
 ### Lo revisamos con el comando git log --oneline --all y se puede observar todos los commits junto a sus hashes
-![4]()
-# Visualizacion de contenido
+![4](https://github.com/Ramago1715/Examen_git/blob/main/Part2_1.png)
+## Visualizacion de contenido
 ### Como podemos ver con el comando cat y el archivo que querramos ver,se obeserva el contenido del readme
-![5]()
-# Translado entre commits
+![5](https://github.com/Ramago1715/Examen_git/blob/main/Part2_2.png)
+## Translado entre commits
 ### Usando los hashs de los commits nos moveremos entre ellos con el comando git checkout y el respectivo hash
 #### Aqui me sale un error que sinceramente no entiendo, pero bueno se hace con este comando
-![6]()
-# 
+![6](https://github.com/Ramago1715/Examen_git/blob/main/Part2_3.png)
+#
 
