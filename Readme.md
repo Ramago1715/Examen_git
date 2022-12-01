@@ -17,8 +17,18 @@
 ### Como podemos ver con el comando cat y el archivo que querramos ver,se obeserva el contenido del readme
 ![5](https://github.com/Ramago1715/Examen_git/blob/main/Part2_2.png)
 ## Translado entre commits
-### Usando los hashs de los commits nos moveremos entre ellos con el comando git checkout y el respectivo hash
-#### Aqui me sale un error que sinceramente no entiendo, pero bueno se hace con este comando
-![6](https://github.com/Ramago1715/Examen_git/blob/main/Part2_3.png)
-#
+### Usando los hashs de los commits nos moveremos entre ellos con el comando git checkout y el respectivo hash y asi nos movemos al primer commit
+![6](https://github.com/Ramago1715/Examen_git/blob/main/Part2_Moverse.png)
+## En que posicion estamos ahora?
+### Se puede comprobar que el head esta en el primer commit usando el comando git  log  --oneline --all
+![part2_movernos2](https://github.com/Ramago1715/Examen_git/blob/main/Part2_Moverse2.png)
+## Nos movemos al segundo commit
+### Usamos el comando usado antes pero con el hash del segundo commit ademas  con el comando tambien usado multiples veces mostramos que nos encontramos en el segundo commit
+![part2_movernossegundo](https://github.com/Ramago1715/Examen_git/blob/main/Part2_moversesegundo.png)
+## Nos movemos a la rama main
+### con el mismo comando de antes pero sustituyendo en hash por la palabra main podemos vovler al ultimo commit (es decir al acutal)
+![part2_movernosmain](https://github.com/Ramago1715/Examen_git/blob/main/Part2_moversemain.png)
+
+
+
 
